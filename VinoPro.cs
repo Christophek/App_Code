@@ -6,7 +6,7 @@ using System.Web;
 /// <summary>
 /// Egenskaber for VinoPro
 /// </summary>
-public class VinoPro
+public class Pro
 {
     public int ID
     {
