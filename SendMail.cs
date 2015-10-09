@@ -56,7 +56,7 @@ public class SendMail
     public string SendBulkMail(string fra, string emne, string tekst)
     {
 
-        string[] emailliste = {"simon@vinivino.dk"};
+        string[] emailliste = {"mail@domæne.dk"};
 
         //MailMessage minMail = new MailMessage(fra, til, emne, tekst);
         MailMessage minMail = new MailMessage();
